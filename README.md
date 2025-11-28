@@ -1,7 +1,4 @@
-### COMMUNICATION CONTRACT
-
-### 
-
+# COMMUNICATION CONTRACT
 ### ---Requesting Data---
 
 - file: notification_requests.json
